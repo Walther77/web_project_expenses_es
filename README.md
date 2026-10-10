@@ -107,3 +107,7 @@ Durante el desarrollo de este proyecto se practicaron los siguientes conceptos:
 ## Autor
 
 Proyecto desarrollado como parte del proceso de formación en desarrollo web de TripleTen, con el objetivo de fortalecer las habilidades en JavaScript y la creación de aplicaciones web interactivas.
+
+## Ver proyecto publicado
+
+[Abrir Gestor de Gastos en GitHub Pages](https://walther77.github.io/web_project_expenses_es/)
